@@ -4,7 +4,7 @@
   <title><![CDATA[jQuery Mobile Cookbook]]></title>
   <link href="http://jquerymobilecookbook.github.com/atom.xml" rel="self"/>
   <link href="http://jquerymobilecookbook.github.com/"/>
-  <updated>2012-05-01T21:40:13-05:00</updated>
+  <updated>2012-05-03T12:25:01-05:00</updated>
   <id>http://jquerymobilecookbook.github.com/</id>
   <author>
     <name><![CDATA[Mike Hostetler]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Getting Started with jQuery Mobile]]></title>
+    <link href="http://jquerymobilecookbook.github.com/blog/2012/05/03/getting-started-with-jquery-mobile/"/>
+    <updated>2012-05-03T12:24:00-05:00</updated>
+    <id>http://jquerymobilecookbook.github.com/blog/2012/05/03/getting-started-with-jquery-mobile</id>
+    <content type="html"><![CDATA[<p>jQuery Mobile is MOAR AWESOMER!</p>
+]]></content>
+  </entry>
   
 </feed>
